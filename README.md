@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [PAT_A1006 Sign In and Sign Out (25 分)](http://cloud-panda.com/articles/2019/08/20/1566297915104.html)
+* [PAT_A1002 A+B for Polynomials (25 分)](http://cloud-panda.com/articles/2019/08/20/1566297807247.html)
 * [PAT_A1065 A+B and C (64bit) (20 分)](http://cloud-panda.com/articles/2019/08/07/1565185667843.html)
 * [PAT_A1046 1046 Shortest Distance (20 分)](http://cloud-panda.com/articles/2019/08/07/1565181412140.html)
 * [PAT_A1042 Shuffling Machine (20 分)](http://cloud-panda.com/articles/2019/08/07/1565177803154.html)
