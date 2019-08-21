@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [PAT_A1001 A+B Format (20 分)](http://cloud-panda.com/articles/2019/08/20/1566298990212.html)
 * [PAT_A1006 Sign In and Sign Out (25 分)](http://cloud-panda.com/articles/2019/08/20/1566297915104.html)
 * [PAT_A1002 A+B for Polynomials (25 分)](http://cloud-panda.com/articles/2019/08/20/1566297807247.html)
 * [PAT_A1065 A+B and C (64bit) (20 分)](http://cloud-panda.com/articles/2019/08/07/1565185667843.html)
