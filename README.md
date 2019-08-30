@@ -1,11 +1,11 @@
-<p align="center"><img alt="姜_小树的个人博客" src="https://static.b3log.org/images/brand/solo-32.png"></p><h2 align="center">
-姜_小树的个人博客
+<p align="center"><img alt="姜小树的个人博客" src="https://static.b3log.org/images/brand/solo-32.png"></p><h2 align="center">
+姜小树的个人博客
 </h2>
 
-<h4 align="center">记录精彩的程序人生</h4>
-<p align="center"><a title="姜_小树的个人博客" target="_blank" href="https://github.com/Polaris-Jhb/solo-blog"><img src="https://img.shields.io/github/last-commit/Polaris-Jhb/solo-blog.svg?style=flat-square&color=FF9900"></a>
+<h4 align="center">天行健，君子以自强不息；地势坤，君子以厚德载物。</h4>
+<p align="center"><a title="姜小树的个人博客" target="_blank" href="https://github.com/Polaris-Jhb/solo-blog"><img src="https://img.shields.io/github/last-commit/Polaris-Jhb/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/Polaris-Jhb/solo-blog"><img src="https://img.shields.io/github/repo-size/Polaris-Jhb/solo-blog.svg?style=flat-square"></a>
-<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.3-f1e05a.svg?style=flat-square&color=blueviolet"></a>
+<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.4-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/Polaris-Jhb/solo-blog.svg"></a></p>
 
 ### 最新
