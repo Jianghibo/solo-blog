@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](http://cloud-panda.com/my-github-repos)
 * [一个结束又是新的开始](http://cloud-panda.com/articles/2019/09/08/1567946576480.html)
 * [PAT_A1001 A+B Format (20 分)](http://cloud-panda.com/articles/2019/08/20/1566298990212.html)
 * [PAT_A1006 Sign In and Sign Out (25 分)](http://cloud-panda.com/articles/2019/08/20/1566297915104.html)
